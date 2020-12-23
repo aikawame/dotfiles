@@ -2,7 +2,7 @@
 export LANG=ja_JP.UTF-8
 export PATH=$HOME/.anyenv/bin:$HOME/bin:/usr/local/bin:/usr/bin:/bin:$PATH
 eval "$(anyenv init -)"
-export EDITOR='emacs'
+export EDITOR=vi
 
 # エイリアスを設定する
 alias sh='zsh'
